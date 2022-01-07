@@ -1,8 +1,8 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Vijay Kumar Singh</h1>
 
-<!--
+
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
+Here are some ideas to get you started:
 
 <div align="center">
   <img src ="https://www.crio.do/blog/content/images/size/w1000/2021/04/Full-stack-web-developer.png"/>
@@ -54,20 +54,11 @@ Here are some ideas to get you started: -->
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
-## ❤️ Let's get connected:
+<!-- ## ❤️ Let's get connected:
 
 <p><a href="https://twitter.com/<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Vijay Kumar Singh</h1>
 
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-
-<div align="center">
-  <img src ="./banner.png" />
-  
-</div>
-
- <br/>
+ <br/> -->
 
 ## 👨🏻‍💻 About Me:
 
