@@ -1,11 +1,11 @@
-<h1 align="center">Hello<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201908/full_stack_developer_web_devel_0.jpeg?6WhULBuB29vflk6_SECFhck8TSQYgmYQ&size=770:433" width="30px"> I'm Vijay Kumar Singh</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Vijay Kumar Singh</h1>
 
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201908/full_stack_developer_web_devel_0.jpeg?6WhULBuB29vflk6_SECFhck8TSQYgmYQ&size=770:433"/>
   
 </div>
 
