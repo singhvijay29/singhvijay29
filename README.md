@@ -5,7 +5,7 @@ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201908/full_stack_developer_web_devel_0.jpeg?6WhULBuB29vflk6_SECFhck8TSQYgmYQ&size=770:433"/>
+  <img src ="https://www.crio.do/blog/content/images/size/w1000/2021/04/Full-stack-web-developer.png"/>
   
 </div>
 
