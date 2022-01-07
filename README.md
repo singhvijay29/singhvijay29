@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476jzl3yoyboi2y8nv6421gmrey3lpqaeeuxkd5h4a&rid=giphy.gif&ct=g" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](////portfolio link/////)**
 
