@@ -67,7 +67,3 @@
 ## 📊 My GitHub Data:
 [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhvijay29)](https://github.com/singhvijay29/github-readme-stats)
  
-
-
-##Top Languages:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhvijay29)](https://github.com/singhvijay29/github-readme-stats)
