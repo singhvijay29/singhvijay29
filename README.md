@@ -69,9 +69,5 @@
  
 
 
-<!-- ## 📊 My GitHub Data:
-
-<div align="center">
-  <img align="center" src="" />
-  <img align="center" src="" />
-</div> -->
+##Top Languages:
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhvijay29)](https://github.com/singhvijay29/github-readme-stats)
