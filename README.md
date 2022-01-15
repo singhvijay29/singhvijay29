@@ -1,7 +1,7 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Vijay Kumar Singh</h1>
 
 <div align="center">
-  <img src ="https://www.crio.do/blog/content/images/size/w1000/2021/04/Full-stack-web-developer.png" height="200px"/>
+  <img src ="https://www.crio.do/blog/content/images/size/w1000/2021/04/Full-stack-web-developer.png" height="300px"/>
   
 </div>
 
