@@ -54,9 +54,6 @@
  ## 📊 My GitHub Data:
 [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhvijay29)](https://github.com/singhvijay29/github-readme-stats)
 
-[![vijay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=singhvijay29)](https://github.com/singhvijay29/github-readme-stats)
-
-
 ## ❤️ Let's get connected:
 
 <p><a href="https://twitter.com/VijayKumar609" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/vijay-kumar-singh-675270203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/singh_vijay294" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/> <a href="mailto:gmail.com/singhvijay8529@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
