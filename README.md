@@ -54,6 +54,8 @@
  ## 📊 My GitHub Data:
 [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhvijay29)](https://github.com/singhvijay29/github-readme-stats)
 
+[![vijay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=singhvijay29)](https://github.com/singhvijay29/github-readme-stats)
+
 
 ## ❤️ Let's get connected:
 
