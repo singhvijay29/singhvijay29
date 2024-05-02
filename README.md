@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px" height="34px" /> <br/>I'm Vijay Kumar Singh</h1>
+<h1 align="left">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px" height="34px" />, I'm Vijay Kumar Singh</h1>
 
 <div align="center">
   <img src ="https://www.crio.do/blog/content/images/size/w1000/2021/04/Full-stack-web-developer.png" width="1200px" height="400px"/>
@@ -9,6 +9,7 @@
 
 
 # 💫 About Me:
+<div align="right" width="20px"></div>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="260px" align="right" margin-left="20px" />
 - 👨🏻‍💻 As an experienced Frontend Engineer with over two years in the field, I excel in crafting intuitive user interfaces. Specializing in ReactJS, Next.js, TypeScript, JavaScript, Tailwind CSS, WebSocket, and Redux, I bring a wealth of technical expertise to the table. My problem-solving skills, collaborative spirit, and passion for learning make me a valuable asset in delivering high-quality solutions.<br>
 - 🙋‍♂️ All about me is at <a href="https://portfolio-singhvijay-gmailcom.vercel.app/">[My Website]</a> <br>
