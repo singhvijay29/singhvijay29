@@ -3,9 +3,8 @@
 <div align="center">
   <img src ="https://www.crio.do/blog/content/images/size/w1000/2021/04/Full-stack-web-developer.png" width="1200px" height="400px"/>
   
-</div>
-<img src ="https://www.crio.do/blog/content/images/size/w1000/2021/04/Full-stack-web-developer.png" width="1200px" height="400px"/>
- <br/>
+</div> <br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" align="right" />
 # 💫 About Me:
 🙋‍♂️ All about me is at My Website.<br>👨‍💻 Technical Proficiency:<br>ReactJS & Next.js: You possess a deep understanding of ReactJS, leveraging its component-based architecture to build dynamic and responsive user interfaces. Your expertise extends to Next.js, utilizing its powerful features for server-side rendering and seamless client-side routing.<br>TypeScript & JavaScript: Your fluency in TypeScript and JavaScript empowers you to write clean, maintainable code with enhanced type safety and productivity. You adeptly navigate through complex projects, ensuring robustness and scalability.<br>Tailwind CSS: With Tailwind CSS, you skillfully design modern and visually appealing UI components while maintaining a streamlined development workflow. Your proficiency in utility-first CSS frameworks enhances the efficiency of your styling process.<br>WebSocket: You have hands-on experience with WebSocket technology, enabling real-time communication between clients and servers. Your expertise in implementing WebSocket protocols enriches interactive web applications with live updates and collaborative features.<br>Redux: Your mastery of Redux facilitates state management in large-scale React applications, ensuring data consistency and efficient handling of complex application states. You architect elegant solutions that maintain scalability and performance.<br>🤔 I’m looking for help with Competitive Programming.<br>👯 I’m looking to collaborate for Projects.<br>👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉.<br>⚡ Fun fact: I waste most of my time playing chess.<br>
 
