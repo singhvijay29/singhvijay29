@@ -12,7 +12,7 @@
 <div>
   <img height="260px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
-- 👨🏻‍💻 As an experienced Frontend Engineer with over two years in the field, I excel in crafting intuitive user interfaces. Specializing in ReactJS, Next.js, TypeScript, JavaScript, Tailwind CSS, WebSocket, and Redux, I bring a wealth of technical expertise to the table. My problem-solving skills, collaborative spirit, and passion for learning make me a valuable asset in delivering high-quality solutions.<br>
+- 👨🏻‍💻 As an experienced Frontend Engineer with over two years in the field, I excel in crafting intuitive user interfaces. Specializing in ReactJS, Next.js, TypeScript, JavaScript, Tailwind CSS, WebSocket, and Redux, I bring a wealth of technical expertise to the table. My problem-solving skills, collaborative spirit, and passion for learning makes me a valuable asset in delivering high-quality solutions.<br>
 - 🙋‍♂️ All about me is at <a href="https://singhvijay.vercel.app/">Portfolio</a> <br>
 - 🔭 I’m currently working on <code>Something Interesting </code>.<br>
 - 👨‍💻 Life Hack: Learn new tech 🔥 <br/>and share what you have learned 🎉<br>
